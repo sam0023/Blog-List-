@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.blog {
+  list-style-type: none;
+  /* border: solid 1px red; */
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  color: #12022f;
+}

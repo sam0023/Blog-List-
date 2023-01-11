@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.user-container {
+  text-align: center;
+  /* border: solid 2px red; */
+  margin-top: 60px;
+}
+.profile-img {
+  height: 150px;
+}
+.profile-name {
+  font-size: 20px;
+  color: #12022f;
+}
+.profile {
+  color: #616e7c;
+  font-weight: 600;
+}
